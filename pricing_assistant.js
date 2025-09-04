@@ -2,7 +2,7 @@
 
 // Code goes here
 // Step 1:
-let productName = "Iphone 16";
+let productName = "iPhone 16";
 let costPerUnit = 420.00;
 let basePrice = 799.00;
 let discountRate = 0.15;
