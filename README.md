@@ -1,0 +1,1 @@
+This is a simple product pricing assistant using JavaScript. It tracks product’s cost, base price, discount, and sales tax, then compute profit per unit and the break-even quantity for fixed monthly costs.
